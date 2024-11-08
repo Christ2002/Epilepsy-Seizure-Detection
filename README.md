@@ -1,1 +1,1 @@
-# Epilepsy-Seizure-Detection
+# Myocardial infarction complications
